@@ -1,0 +1,6 @@
+AZURE_OPENAI_API_KEY = "662b89e76c1040a8b2196862c6007ed1"
+AZURE_OPENAI_ENDPOINT = "https://datacloudmsfabriccopilotpoc.openai.azure.com/"
+AZURE_OPENAI_API_VERSION = "2024-07-01-preview"
+AZURE_OPENAI_CHAT_DEPLOYMENT_NAME = "gpt-4o"
+
+ 
